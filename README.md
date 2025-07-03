@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Automating my coding workflow with AI Agents; Building apps for my software studio to make some extra cash so i can eat out in college; AI B2B gpt wrapper Saas
+- 🔭 I’m currently working on ... Automating my coding workflow with AI Agents; Building apps for my software studio to make some extra cash so i can eat out in college; AI B2B gpt wrapper SaaS
 - 🌱 I’m currently learning ... Golang and Rust (hard)
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... anything
