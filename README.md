@@ -12,4 +12,4 @@
 
 **Side Quests**
 - Reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
-- Explaoring various philosophy topics (minor)
+- Exploring various philosophy topics (minor)
