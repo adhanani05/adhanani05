@@ -3,12 +3,12 @@
 **I’m currently working on** 
 - Automating my coding workflow with AI Agents
 - Building apps for my software studio
-- AI B2B gpt wrapper SaaS (jk)
 - Springboot projects
+- AI B2B gpt wrapper SaaS (jk)
 
 **I’m currently learning** 
 - Golang
-- Rust (hard)
+- Rust
 
 **Side Quests**
 - Reading "Technofeudalism what killed capitalism" by Yanis Varoufakis
