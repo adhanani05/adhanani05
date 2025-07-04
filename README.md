@@ -11,5 +11,5 @@
 - Rust
 
 **Side Quests**
-- Reading "Technofeudalism what killed capitalism" by Yanis Varoufakis
+- Reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
 - Explaoring various philosophy topics (minor)
