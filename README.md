@@ -12,5 +12,4 @@
 
 **Side Quests**
 - Reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
-- Exploring various philosophy topics (minor)
 - Reach 100WPM typing speed by end of 2025
