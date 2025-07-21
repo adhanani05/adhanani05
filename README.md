@@ -4,7 +4,6 @@
 - Automating my coding workflow with AI Agents
 - Building apps for my software studio
 - Springboot projects
-- AI B2B gpt wrapper SaaS (jk)
 
 **I’m currently learning** 
 - Golang
