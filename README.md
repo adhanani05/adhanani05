@@ -1,7 +1,6 @@
 ## tldr;
 
 **I’m currently working on** 
-- Automating my coding workflow with AI Agents
 - Building apps for my software studio
 - Springboot projects
 
