@@ -4,7 +4,7 @@
 - Building apps for my software studio
 - Building a compiler in rust
 - Automating my trading strategy in python
-- Creating a cli for my canvas assignments
+- Creating a CLI for my canvas assignments
 
 **Interests**
 - ai/ml algos + infra
