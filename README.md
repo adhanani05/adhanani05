@@ -2,11 +2,13 @@
 
 **I’m currently working on** 
 - Building apps for my software studio
-- Springboot projects
+- Building a compiler in rust
+- Automating my trading strategy in python
+- Creating a cli for my canvas assignments
 
 **I’m currently learning** 
-- Golang
-- Rust
+- Game Theory
+- Rust/Go
 
 **Side Quests**
 - Reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
