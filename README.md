@@ -7,9 +7,9 @@
 - Creating a CLI for my canvas assignments
 
 **Interests**
-- ai/ml algos + infra
+- ai/ml + infra
 - low level systems
-- some cybersecurity
+- cybersecurity
 
 **I’m currently learning** 
 - Game Theory
