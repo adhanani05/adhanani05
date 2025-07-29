@@ -7,7 +7,7 @@
 - Creating a CLI for my canvas assignments
 
 **Interests**
-- ai/ml + infra
+- ai/ml
 - low level systems
 - cybersecurity
 
