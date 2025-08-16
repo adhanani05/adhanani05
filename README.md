@@ -8,7 +8,7 @@
 
 **Interests**
 - ai/ml
-- low level systems
+- cloud
 - cybersecurity
 
 **I’m currently learning** 
