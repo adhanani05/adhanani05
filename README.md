@@ -2,8 +2,6 @@
 
 **I’m currently working on** 
 - Building apps for my software studio
-- Building a compiler in rust
-- Automating my trading strategy in python
 - Creating a CLI for my canvas assignments
 
 **Interests**
