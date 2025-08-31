@@ -9,7 +9,7 @@
 **Interests**
 - ai/ml
 - low-level systems
-- cybersecurity
+- fullstack dev
 
 **I’m currently learning** 
 - Game Theory
