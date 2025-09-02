@@ -10,7 +10,7 @@
 - fullstack dev
 
 **I’m currently learning** 
-- Game Theory
+- PyTorch
 - Rust/Go
 
 **Side Quests**
