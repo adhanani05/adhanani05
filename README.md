@@ -1,18 +1,19 @@
 ## tldr;
 
-**I’m currently working on** 
-- Building apps for my software studio
-- Creating a CLI for my canvas assignments
+**i'm currenty working on** 
+- building apps for my software studio
+- creating a CLI for my canvas assignments
 
-**Interests**
+**interests**
 - ai/ml
 - low-level systems
 - fullstack dev
 
-**I’m currently learning** 
-- PyTorch
-- Rust/Go
+**i’m currently learning** 
+- pytorch
+- rust
+- go
 
-**Side Quests**
-- Reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
-- Reach 100WPM typing speed by end of 2025
+**side quests**
+- reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
+- reach 100WPM typing speed by end of 2025
