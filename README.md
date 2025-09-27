@@ -17,3 +17,4 @@
 **side quests**
 - reading "Technofeudalism: What Killed Capitalism" by Yanis Varoufakis
 - reach 100WPM typing speed by end of 2025
+- playing with my esp32
